@@ -1,0 +1,31 @@
+ How to run the Hospital Management System (HMS) Project
+1. Download the  zip file
+
+2. Extract the file and copy hospital folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name hms
+
+6. Import hms.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/hospital (frontend)
+
+Login Details
+Login Details for admin : admin/Test@12345
+Login Details for Patient: test@gmail.com/Test@123
+Login Details for Doctor: test@demo.com/Test@123
+
+doctor delvis alvarez usuario:gerardoalvarez197@gmail.com 
+                      cntraseña:068Miav$
+Para agregar nvo usuario doctor se crea en admin en el modulo agregar doctor y se llenan los datos el 
+usuario va ser el email q colocaste en el modulo agregar doctor y la contraseña la q colocaste en el mismo 
+modulo
+
+otro ejemplo david martinez usuario:gerardoalvarez1976@gmail.com contraseña:12345678
+------------------------------------------------------------------------------------------------------------
+Ejemplo: paciente ruth riera usuario:ruthmariera38@hotmail.com contraseña:11281573
+Para agregar nvo usuario paciente desde la ventana ingresar login dar clip en crear cuenta llenar el formulario
+y guardar el usuario va ser el email q se coloco al paciente y la contraseña la qe se coloco enel formulario 
